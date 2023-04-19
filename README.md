@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+<summary>Used Languages</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie23&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/shpoopdy/github-readme-stats)
+  
+</details>
+
 <!--
 **sarahmarie23/sarahmarie23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
